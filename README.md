@@ -1,5 +1,7 @@
 Welcome, my name is Dmytro I am interested in everything tech and more. I mostly do digital electronics with microcontrollers/SoCs, 3D printing, and software development. Often I venture out of my comfort zone to learn something new, for example right now I am improving my analog and power electronics skills as well as learning FPGA development. If I have an internet connection and time I can pretty much make anything.
 
+![diminDDL's GitHub stats](https://github-readme-stats.vercel.app/api?username=diminDDL&show_icons=true&theme=codeSTACKr)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=diminDDL&layout=compact&theme=codeSTACKr)
 <!--
 **diminDDL/diminDDL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
