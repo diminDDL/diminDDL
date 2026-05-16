@@ -2,7 +2,7 @@ I'm Dmytro, an engineer with a focus on digital electronics, microcontrollers, a
 
 
 <div>
-  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diminDDL&theme=codeSTACKr">
-  <img width="24%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diminDDL&theme=codeSTACKr">
-  <img width="24%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diminDDL&theme=codeSTACKr">
+  <img width="99%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diminDDL&theme=codeSTACKr">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diminDDL&theme=codeSTACKr">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diminDDL&theme=codeSTACKr">
 </div>
