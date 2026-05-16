@@ -2,6 +2,7 @@ I'm Dmytro, an engineer with a focus on digital electronics, microcontrollers, a
 
 
 <div>
-  <img height="160px" src="https://readme-stats-six-dun.vercel.app/api?username=diminDDL&show_icons=true&theme=codeSTACKr&count_private=true&hide_rank=true&&hide=commits&line_height=21&PAT_1">
-  <img height="160px" src="https://readme-stats-six-dun.vercel.app/api/top-langs/?username=diminDDL&count_private=true&layout=compact&theme=codeSTACKr&langs_count=6&hide=html,objective-c,logos,processing,matlab,mathematica&PAT_1">
+  <img width="49%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=diminDDL&theme=codeSTACKr">
+  <img width="24%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=diminDDL&theme=codeSTACKr">
+  <img width="24%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=diminDDL&theme=codeSTACKr">
 </div>
